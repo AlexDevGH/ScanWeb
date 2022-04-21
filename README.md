@@ -3,7 +3,7 @@ Scansiona e mostra come JSON i titoli principali e gli URL del Corriere della Se
 
 # Utilizzo
 fai partire il progetto con nodeJS con il comando npm run start
-poi naviga all'indirizzo localhot:8087/notizie
+poi naviga all'indirizzo localhost:8087/notizie
 
 
 
